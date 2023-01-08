@@ -1,4 +1,4 @@
 print("Hello")
 
 def myFunction():
-    pass
+    print("1")
